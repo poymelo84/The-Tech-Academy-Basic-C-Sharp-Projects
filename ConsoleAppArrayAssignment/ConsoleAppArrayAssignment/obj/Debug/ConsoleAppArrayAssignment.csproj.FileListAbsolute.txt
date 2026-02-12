@@ -1,0 +1,7 @@
+C:\Users\jaime\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArrayAssignment\ConsoleAppArrayAssignment\bin\Debug\ConsoleAppArrayAssignment.exe.config
+C:\Users\jaime\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArrayAssignment\ConsoleAppArrayAssignment\bin\Debug\ConsoleAppArrayAssignment.exe
+C:\Users\jaime\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArrayAssignment\ConsoleAppArrayAssignment\bin\Debug\ConsoleAppArrayAssignment.pdb
+C:\Users\jaime\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArrayAssignment\ConsoleAppArrayAssignment\obj\Debug\ConsoleAppArrayAssignment.csproj.AssemblyReference.cache
+C:\Users\jaime\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArrayAssignment\ConsoleAppArrayAssignment\obj\Debug\ConsoleAppArrayAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jaime\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArrayAssignment\ConsoleAppArrayAssignment\obj\Debug\ConsoleAppArrayAssignment.exe
+C:\Users\jaime\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArrayAssignment\ConsoleAppArrayAssignment\obj\Debug\ConsoleAppArrayAssignment.pdb
