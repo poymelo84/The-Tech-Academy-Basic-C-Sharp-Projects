@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaime\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\ConsoleAppStringsAndIntegersAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{428F695D-C4AE-46E5-A040-A6F3162D7CFD}|ConsoleAppStringsAndIntegersAssignment\\ConsoleAppStringsAndIntegersAssignment.csproj|c:\\users\\jaime\\onedrive\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\consoleappstringsandintegersassignment\\consoleappstringsandintegersassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428F695D-C4AE-46E5-A040-A6F3162D7CFD}|ConsoleAppStringsAndIntegersAssignment\\ConsoleAppStringsAndIntegersAssignment.csproj|solutionrelative:consoleappstringsandintegersassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jaime\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\ConsoleAppStringsAndIntegersAssignment\\ConsoleAppStringsAndIntegersAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppStringsAndIntegersAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\jaime\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\ConsoleAppStringsAndIntegersAssignment\\ConsoleAppStringsAndIntegersAssignment\\Program.cs",
+              "RelativeToolTip": "ConsoleAppStringsAndIntegersAssignment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T19:50:59.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
