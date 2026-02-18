@@ -1,0 +1,7 @@
+C:\Users\jaime\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignment\MainMethodAssignment\bin\Debug\MainMethodAssignment.exe.config
+C:\Users\jaime\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignment\MainMethodAssignment\bin\Debug\MainMethodAssignment.exe
+C:\Users\jaime\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignment\MainMethodAssignment\bin\Debug\MainMethodAssignment.pdb
+C:\Users\jaime\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignment\MainMethodAssignment\obj\Debug\MainMethodAssignment.csproj.AssemblyReference.cache
+C:\Users\jaime\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignment\MainMethodAssignment\obj\Debug\MainMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jaime\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignment\MainMethodAssignment\obj\Debug\MainMethodAssignment.exe
+C:\Users\jaime\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignment\MainMethodAssignment\obj\Debug\MainMethodAssignment.pdb
