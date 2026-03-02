@@ -1,0 +1,7 @@
+C:\Users\jaime\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\ParsingEnumsAssignment.exe.config
+C:\Users\jaime\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\ParsingEnumsAssignment.exe
+C:\Users\jaime\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\ParsingEnumsAssignment.pdb
+C:\Users\jaime\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\ParsingEnumsAssignment.csproj.AssemblyReference.cache
+C:\Users\jaime\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\ParsingEnumsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jaime\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\ParsingEnumsAssignment.exe
+C:\Users\jaime\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\ParsingEnumsAssignment.pdb
