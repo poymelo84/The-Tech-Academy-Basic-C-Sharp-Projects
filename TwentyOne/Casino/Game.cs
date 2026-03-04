@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Casino
 {
-    abstract class Game
+    public abstract class Game
     {
         private List<Player> _players = new List<Player>();
         private Dictionary<Player, int> _bets = new Dictionary<Player, int>();

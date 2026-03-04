@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Casino.Interfaces
 {
-    interface IWalkAway
+    public interface IWalkAway
     {
         void WalkAway(Player player);
 

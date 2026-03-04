@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Casino.TwentyOne
 {
-    class TwentyOneRules
+    public static class TwentyOneRules
     {
         private static Dictionary<Face, int> _cardValues = new Dictionary<Face, int>()
         {
