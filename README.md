@@ -32,6 +32,8 @@ page that allows staff to view all of the quotes that have been issued.
 
 [FinalAssignment](./FinalAssignment)
 
+Creates a basic Entity Framework Code-First console application that creates a basic Student database and adds one student.
+
 [LambdaExpressionAssignment](./LambdaExpressionAssignment)
 
 [MainMethodAssignment](./MainMethodAssignment)
