@@ -2,6 +2,10 @@
 This repository is for my Basic C-Sharp and .NET Framewrok projects.
 _____________________________________________________________________
 [AbstractClassAssignment](./AbstractClassAssignment)
+
+Create another class, "Employee" and have it inherit from the Person class.
+implement the SayName() method inside of the Employee class
+
 [BooleanLogicAssignment](./BooleanLogicAssignment)
 
 [BranchingAssignment](./BranchingAssignment)
