@@ -75,3 +75,14 @@ Create ananonymous function used to create delegates or expression tree types in
 
 [TwentyOne](./TwentyOne)
 
+The TwentyOne project is a C# console application that simulates a simplified version of the card game Blackjack (also called “21”).
+You build it to practice:
+- Object‑oriented programming
+- Classes, properties, and methods
+- Inheritance and interfaces
+- Enums and collections
+- Game logic and loops
+- Exception handling
+- Polymorphism
+- File I/O (logging)
+It’s one of the most complete beginner‑to‑intermediate C# projects because it ties everything together.
