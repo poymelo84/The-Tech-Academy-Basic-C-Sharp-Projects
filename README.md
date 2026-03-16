@@ -32,7 +32,11 @@ page that allows staff to view all of the quotes that have been issued.
 
 [ConstructorAssignment](./ConstructorAssignment)
 
+Chaining two constructors together.
+
 [DateTimeAssignment](./DateTimeAssignment)
+
+Prints the current date and time to the console.
 
 [FinalAssignment](./FinalAssignment)
 
