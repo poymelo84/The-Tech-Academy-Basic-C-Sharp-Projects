@@ -44,6 +44,9 @@ Creates a basic Entity Framework Code-First console application that creates a b
 
 [LambdaExpressionAssignment](./LambdaExpressionAssignment)
 
+Create ananonymous function used to create delegates or expression tree types in a concise, readable syntax. The lambda operator => 
+(read as "goes to" or "becomes") separates the input parameters from the body of the lambda.
+
 [MainMethodAssignment](./MainMethodAssignment)
 
 [MainMethodAssignment2](./MainMethodAssignment2)
@@ -55,6 +58,8 @@ Creates a basic Entity Framework Code-First console application that creates a b
 [MethodsAndObjectsAssignment](./MethodsAndObjectsAssignment)
 
 [MyCoreApp](./MyCoreApp)
+
+
 
 [OperatorsAssignment](./OperatorsAssignment)
 
